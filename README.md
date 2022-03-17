@@ -16,6 +16,9 @@ El zoo de Dublin necesita de una nueva web, desde el equipo de UI/UX nos han pas
 
 ### Recursos
 [Extraer imagenes/assets de figma](https://feelingstudio.es/aprende-a-exportar-imagenes-para-tu-web-con-figma/)
+
 [Component vs Atomic](https://envylabs.com/insights/comparing-component-and-atomic-css/) (Ingles)
+
 [Atomic design example](https://codepen.io/ktamine/pen/MLMoeM)
+
 [Metodologías o Arquitecturas CSS (OOCSS, BEM, SMACSS, ITCSS, Atomic Design)](https://medium.com/williambastidasblog/metodolog%C3%ADas-o-arquitecturas-css-oocss-bem-smacss-itcss-atomic-design-a1a3cfbfa6c9)
